@@ -1,0 +1,4 @@
+langchain-community==0.2.7
+# unstructured[all-docs] # for the pipeline bits
+unstructured[md,pdf,docx]==0.14.10
+-e git+https://github.tools.sap/AI-BUS/rage-langchain#egg=langchain-rage
